@@ -1,5 +1,10 @@
 <template>
-  <h1>YG</h1>
+  <div>
+    <h1>YG</h1>
+    <h1>YG</h1>
+    <h1>YG</h1>
+    <h1>YG</h1>
+  </div>
 </template>
 
 <script>
