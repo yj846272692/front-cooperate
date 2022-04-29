@@ -1,5 +1,9 @@
 <template>
-  <h1>HLH</h1>
+<div>
+ <h1>HLH</h1>
+ <h2>lllll</h2>
+</div>
+ 
 </template>
 
 <script>
