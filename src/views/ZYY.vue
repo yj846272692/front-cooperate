@@ -38,7 +38,7 @@
       <v-expansion-panel v-for="(item, i) in 1" :key="i">
         <v-expansion-panel-header> 4</v-expansion-panel-header>
         <v-expansion-panel-content>
-          为梦想，千里行。因为心中怀有梦想，才要努力追求，创造美好来。筑梦前行，人生精彩。
+          为梦想，千里行。因为心中怀有梦想，才要努力追求，创造美好来。筑梦前行，人生精彩.
         </v-expansion-panel-content>
       </v-expansion-panel>
     </v-expansion-panels>
